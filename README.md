@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming and Art
 - 🌱 I’m currently studying Btech in Computer Science and Design 
 - 📫 How to reach me : mahirmobin@gmail.com
-
+- [![Portfolio](https://mahirmobin.netlify.app)]
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahirmobin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahirmobin@gmail.com) 
 
